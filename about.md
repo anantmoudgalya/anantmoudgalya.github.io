@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a Computer Science Senior at PES University Electronic City Campus. 
+My research interests include data mining, data management systems and software development.
 
 ### More Information
 
@@ -12,4 +13,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[anant9798@gmail.com](mailto:anant9798@gmail.com)
