@@ -4,7 +4,7 @@ title: Presenting at an International Conference
 ---
 
 
-Hello! This post describes my experience presenting my paper (and winning the Best Paper Award :D) at AMLTA - 2020.
+Hello! This post describes my experience presenting my paper (and winning the Best Paper Award :D) at AMLTA - 2020 (Feb 13-15).
 
 
 ## Paper Details
