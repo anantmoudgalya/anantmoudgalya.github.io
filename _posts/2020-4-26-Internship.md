@@ -8,7 +8,7 @@ This post details my internship experience @ [CimplyFive Secretarial Services Pv
 Hello Everyone! This post details what I had built during my 2 month (Jan-March 2020) period working as an intern for CimplyFive.
 We were hired as a team of 2 interns (myself and [Ayman Shafi](https://www.linkedin.com/in/ayman-shafi-a2630b129/)) to work on a use case for the company. According to the Companies Act in 2013, companies in India are required to comply with certain regulations and compliances. So to streamline their process of doing so, CimplyFive offers a comprehensive web platform called BLISS, which can handle all the company's legal document needs in a nice GUI drag and drop interface and issue alerts when they're being non compliant.
 
-As a part of BLISS, CimplyFive offers it's clients a service to digitise their 'Past Records'. That is, they physically scan the documents, classify them into necessary classes of meetings according to the Companies Act and upload them into the right financial year and meeting type onto BLISS. This is a labor intensive routine and our task was to automate this process and save valuable company time.
+As a part of BLISS, CimplyFive offers it's clients a service to digitise their 'Past Records'. That is, they physically scan the documents, classify them into necessary classes of meetings according to the Companies Act and upload them into the right financial year and meeting type onto BLISS. This is a labor intensive routine and our task was to automate this process and save valuable company time. (The application we built ended up completing what would've taken a week in manual effort in 5 minutes :D)
 
 ## Tasks Overview
 
