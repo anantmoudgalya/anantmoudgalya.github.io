@@ -9,7 +9,7 @@ Hello! This post describes my experience presenting my paper (and winning the Be
 
 ## Paper Details
 
-I am the lead author of my first paper, "A Comparative Study of Model Free Reinforcement Learning Approaches". The following is the abstract for a cursory understanding :
+I am the lead author of my first [paper](../files/RL_Paper.pdf), "A Comparative Study of Model Free Reinforcement Learning Approaches". The following is the abstract for a cursory understanding :
 
 <p class="abstract">This study explores and compares 3 model-free learning methods, namely, Deep Q-Networks(DQN), Dueling Deep Q-Networks(DDQN) and State - Action - Reward - State - Action (SARSA) while detailing the mathematical principles behind each method. These methods were chosen as to bring out the contrast between off-policy(DQN) and on-policy(SARSA) learners. The DDQN method was included as it is a modification of DQN. The results of these methods and their performance on the classic problem, CartPole were compared. Post training, testing results for each of the models were as follows: DQN obtained an average per episode reward of 496.36; its variant and improvement,
 DDQN obtained a perfect score of 500 and SARSA obtained a score of 438.28. To conclude, the theoretical inferences were decisively reaffirmed with observations based on descriptive plots of training and testing results.</p>
