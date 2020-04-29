@@ -1,9 +1,4 @@
----
-layout: post
-title: Internship Experience
----
-
-This post details my internship experience @ [CimplyFive Secretarial Services Pvt Ltd.](https://www.cimplyfive.com/)
+I"Å<p>This post details my internship experience @ <a href="https://www.cimplyfive.com/">CimplyFive Secretarial Services Pvt Ltd.</a></p>
 
 <!-- Hello Everyone! This post details what I had built during my 2 month (Jan-March 2020) period working as an intern for CimplyFive.
 We were hired as a team of 2 interns (myself and [Ayman Shafi](https://www.linkedin.com/in/ayman-shafi-a2630b129/)) to work on a use case for the company. According to the Companies Act in 2013, companies in India are required to comply with certain regulations and compliances. So to streamline their process of doing so, CimplyFive offers a comprehensive web platform called BLISS, which can handle all the company's legal document needs in a nice GUI drag and drop interface and issue alerts when they're being non compliant.
@@ -28,3 +23,4 @@ We built a standalone desktop application with a [tkinter](https://docs.python.o
 
 I learnt how to dissect user stories into tangible research tasks, modularizing your code, test automation, logging, reporting etc. I also learnt a lot of valuable lessons with respect to the software development lifecycle. I would like to thank CimplyFive for this opportunity. More importantly, I would like to thank my mentor and the CTO of CimplyFive, [Roshan Hadal](https://www.linkedin.com/in/roshanhadal/) for showing faith, for being supremely kind, patient and teaching a lot of invaluable lessons. <br/>
 <b>I wish CimplyFive all the best!</b> -->
+:ET
