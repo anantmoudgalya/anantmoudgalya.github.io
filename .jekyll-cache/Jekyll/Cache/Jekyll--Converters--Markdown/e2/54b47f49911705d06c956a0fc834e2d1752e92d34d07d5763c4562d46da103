@@ -1,0 +1,29 @@
+I"6<p>This post details my internship experience @ <a href="https://www.cimplyfive.com/">CimplyFive Secretarial Services Pvt Ltd.</a></p>
+
+<p>Hello Everyone! This post details what I had learnt during my 2 month (Jan-March 2020, May 2020 - Present) period working as an intern for CimplyFive.
+We were hired as a team of 2 interns (myself and <a href="https://www.linkedin.com/in/ayman-shafi-a2630b129/">Ayman Shafi</a>) to work on a use case for the company. The use case is a labor intensive routine and our task was to automate this process and save valuable company time. 
+(The application we built ended up completing what would’ve taken a few days in manual effort in 5 minutes :D)</p>
+
+<h2 id="technical-takeaways">Technical Takeaways</h2>
+
+<ul>
+  <li>I learnt about automating PDF parsing, i.e, extracting text from pdf files. I used the Apache-Tika pdf parser’s python wrapper, <a href="https://github.com/chrismattmann/tika-python">Tika-Python</a>. It can parse PDF files with great accuracy and proved to be the perfect choice for the requirement. <br /></li>
+  <li>I became competent with NoSQL, document oriented databases and learned about building a text search engine around it. I became proficient with MongoDb and it’s text search capability. To accomplish the text search with lower overhead, I found a more pythonic way of building a document database, which was achieved with the help of <a href="https://github.com/mchaput/whoosh">Whoosh</a>. Whoosh helped index and store parsed document content in a lightweight form using few temporary files in a very short time. <br /></li>
+  <li>It has extremely fast indexing capability and I observed it to index over 100 documents within a minute of time. Whoosh also had a full text search capability which I augmented with a custom scorer to perform rank based search. I also acquainted myself with folder traversal and modifying directory structures using the python OS module.<br /></li>
+  <li>I acquired skills pertinent to RESTful API calls, acquainting myself with this brilliant piece of software called Postman. Postman provides wonderful utility for imitating API calls and observing GET/POST results, headers etc. I administered a bunch of RESTful API calls using the Python <a href="https://requests.readthedocs.io/en/master/">Requests</a> library. 
+I also became proficient with automating the writing of reports for Domain users. This was done using the <a href="https://xlsxwriter.readthedocs.io/">XlsxWriter</a> plugin for Python and helped me generate color coded reports which were appreciated by the domain users at the company.</li>
+  <li>During the process, I also gained an understanding of how to store and process data efficiently in program memory using hashmaps, tree structures, JSON files and python lists to do so. <br /></li>
+  <li>We built a standalone desktop application with a <a href="https://docs.python.org/3/library/tkinter.html">tkinter</a> GUI and built the modules together into an executable, with the help of the <a href="https://www.pyinstaller.org/">PyInstaller</a> module.</li>
+  <li>To automate the building process after bug fixes we used Github <a href="https://github.com/features/actions">Actions</a> to facilitate the application build on push to the code repository. GitHub Actions were a very stimulating study as watching a release artifact get built automatically on push to the Master repository was wonderful to see happen.</li>
+</ul>
+
+<h2 id="non-technical-takeaways">Non Technical Takeaways</h2>
+
+<ul>
+  <li>I learnt how to dissect user stories into tangible research tasks, modularizing your code, test automation, logging, reporting etc.</li>
+  <li>I picked up a lot of valuable lessons with respect to the software development lifecycle and about organizing tasks according to business priority.</li>
+  <li>Teamwork. Working as a part of team, and taking everyone’s opinion constructively and adding it to my knowledge base was a valuable lesson.</li>
+  <li>Professional Communication and Networking helped me foster necessary skills to improve as a professional.</li>
+  <li>More importantly, I learnt about taking criticism constructively and using it to improve my work. I also learnt about Time Management, as a student, it is easy to fall to the habit of procrastination. But in a professional setting, I was pushed to use my time efficiently and work better.</li>
+</ul>
+:ET
